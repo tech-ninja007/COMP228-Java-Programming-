@@ -1,0 +1,9 @@
+
+l	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(¨…ÄK
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ßç¦Áøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(õ©¨Õüÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(œåëD8õÊ€Õå0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(‡…µÎ8¸öÕå0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(”ßÈ üÿÿÿÿ8–Ø‡Õå0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ë”©8·ù‡Õå0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(­ÍÿŸ8é¦Õå0

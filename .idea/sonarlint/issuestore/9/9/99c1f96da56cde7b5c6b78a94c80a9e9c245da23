@@ -1,0 +1,9 @@
+
+f	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹Â˜É
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚­¾¾
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ßç¦Áøÿÿÿÿ
+i	java:S116"ORename this field "ISBN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜²ìèùÿÿÿÿ
+O
+java:S5993
+"9Change the visibility of this constructor to "protected".(‹Â˜É

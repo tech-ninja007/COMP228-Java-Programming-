@@ -1,0 +1,21 @@
+
+l	java:S127,"XRefactor the code in order to not assign to this loop counter from within the loop body.(¨…ÄK
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¨àÎ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(€·½^
+S	java:S106"9Replace this use of System.out or System.err by a logger.(õ©¨Õüÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ûƒî¼
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÀÁØ€şÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(²•ÒØ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ñ„Ó˜şÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(²˜âû
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ûƒî¼
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(ÀÁØ€şÿÿÿÿ
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(²•ÒØ
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(ñ„Ó˜şÿÿÿÿ
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(²˜âû
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(ÑÓåí
+N	java:S1061"9Replace this use of System.out or System.err by a logger.(œË®
+O
+java:S1128"-Remove this unused import 'exercise1.Health'.(´»éúÿÿÿÿ8¡™¡ìå0
+G
+java:S1128"+Remove this unused import 'exercise1.Life'.(Æ¡8¡™¡ìå0

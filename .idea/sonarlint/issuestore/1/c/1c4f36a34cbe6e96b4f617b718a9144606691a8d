@@ -1,0 +1,20 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ßç¦Áøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(È‚¾ûúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(×Úó¥
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ã­êÊ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(×Úó¥
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ê¶¸Ú
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‚µÓÉùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Û¯Îáşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(”‘Ü±øÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ËİšÒúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ş¢»üÿÿÿÿ
+E
+java:S1128"/Remove this unused import 'java.util.Calendar'.(ÿÛö´
+A
+java:S1128"+Remove this unused import 'java.util.Date'.(¸…¼ü
+N
+java:S1128"8Remove this unused import 'java.util.GregorianCalendar'.(€û½
+H
+java:S1128"-Remove this unused import 'java.util.Locale'.(åğ×±ûÿÿÿÿ

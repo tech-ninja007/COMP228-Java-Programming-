@@ -1,0 +1,8 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ßç¦Áøÿÿÿÿ
+
+java:S4165"kRemove this useless assignment; "insuranceCost" already holds the assigned value along all execution paths.(¡æ©áşÿÿÿÿ8àìµÖå0
+U	java:S106
+"9Replace this use of System.out or System.err by a logger.(š£›»8¢î½»å0
+Q
+java:S1656"/Remove or correct this useless self-assignment.(¡æ©áşÿÿÿÿ8äìµÖå0

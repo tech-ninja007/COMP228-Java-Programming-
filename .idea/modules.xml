@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java Programming.iml" filepath="$PROJECT_DIR$/Java Programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SyedIkramuddin_COMP228Lab2/SyedIkramuddin_COMP228Lab2.iml" filepath="$PROJECT_DIR$/SyedIkramuddin_COMP228Lab2/SyedIkramuddin_COMP228Lab2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SyedIkramuddin_COMP228Lab3/SyedIkramuddin_COMP228Lab3.iml" filepath="$PROJECT_DIR$/SyedIkramuddin_COMP228Lab3/SyedIkramuddin_COMP228Lab3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SyedIkramuddin_COMP228Lab4/SyedIkramuddin_COMP228Lab4.iml" filepath="$PROJECT_DIR$/SyedIkramuddin_COMP228Lab4/SyedIkramuddin_COMP228Lab4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SyedIkramuddin_COMP228Lab5/SyedIkramuddin_COMP228Lab5.iml" filepath="$PROJECT_DIR$/SyedIkramuddin_COMP228Lab5/SyedIkramuddin_COMP228Lab5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SyedIkramuddin_COMP228MidTerm/SyedIkramuddin_COMP228MidTerm.iml" filepath="$PROJECT_DIR$/SyedIkramuddin_COMP228MidTerm/SyedIkramuddin_COMP228MidTerm.iml" />
+    </modules>
+  </component>
+</project>
