@@ -1,0 +1,20 @@
+
+a	java:S112‘"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+a	java:S112°"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+a	java:S112×"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+n
+java:S1192"RDefine a constant instead of duplicating this literal "Doctor not found!" 3 times.(³›á«ùÿÿÿÿ
+<
+java:S1170"!Make this final field static too.(¾ó¬¼ÿÿÿÿÿ
+<
+java:S1170"!Make this final field static too.(ú“íˆúÿÿÿÿ
+7
+java:S1170"!Make this final field static too.(‡¼
+X	java:S125"<This block of commented-out lines of code should be removed.(£º™8ĞÁ«Ñú0
+g
+java:S3776-"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(¼Œ•7
+E
+java:S1481g"/Remove this unused "connection" local variable.(óøµó
+Q	java:S125"<This block of commented-out lines of code should be removed.(Õê€
+O	java:S106â"9Replace this use of System.out or System.err by a logger.(êğÃô
+O	java:S106æ"9Replace this use of System.out or System.err by a logger.(äìÎÆ

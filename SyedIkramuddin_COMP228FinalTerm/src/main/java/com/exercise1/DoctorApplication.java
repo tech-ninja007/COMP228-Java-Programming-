@@ -25,8 +25,8 @@ import oracle.jdbc.*;
 
 public class DoctorApplication extends Application{
 
-    //private final String url = "jdbc:oracle:thin:@199.212.26.208:1521:SQLD";
-    private final String url = "jdbc:oracle:thin:@oracle1.centennialcollege.ca:1521:SQLD";
+    private final String url = "jdbc:oracle:thin:@199.212.26.208:1521:SQLD";
+    //private final String url = "jdbc:oracle:thin:@oracle1.centennialcollege.ca:1521:SQLD";
     private final String username = "COMP228_W23_sy_139";
     private final String password = "password";
 
@@ -105,13 +105,13 @@ public class DoctorApplication extends Application{
                 connection = DriverManager.getConnection(url,username,password);
                 Alert alertSuccess = new Alert(Alert.AlertType.INFORMATION);
                 alertSuccess.setHeaderText(null);
-                alertSuccess.setContentText("Connection successful!");
+                alertSuccess.setContentText("Success!");
                 alertSuccess.showAndWait();
 
             } catch (SQLException e) {
                 Alert alertFailed = new Alert(Alert.AlertType.WARNING);
                 alertFailed.setHeaderText(null);
-                alertFailed.setContentText("Connection failed!");
+                alertFailed.setContentText("Connection Failed!");
                 alertFailed.showAndWait();
                 e.printStackTrace();}
         });
@@ -163,7 +163,7 @@ public class DoctorApplication extends Application{
                 if(rowsUpdated > 0) {
                     Alert alert = new Alert(Alert.AlertType.INFORMATION);
                     alert.setHeaderText(null);
-                    alert.setContentText("Gross salary updated successfully!");
+                    alert.setContentText("Gross salary of the doctor updated successfully!");
                     alert.showAndWait();
                 } else {
                     Alert alert = new Alert(Alert.AlertType.WARNING);
@@ -203,7 +203,7 @@ public class DoctorApplication extends Application{
                 } else {
                     Alert alert = new Alert(Alert.AlertType.INFORMATION);
                     alert.setHeaderText(null);
-                    alert.setContentText("Record successfully deleted!");
+                    alert.setContentText("Doctor is successfully deleted!");
                     alert.showAndWait();
                     idTextField.clear();
                     nameTextField.clear();
@@ -223,7 +223,7 @@ public class DoctorApplication extends Application{
                 Connection connection = DriverManager.getConnection(url,username,password);
                 if(connection != null) {
                     connection.close();
-                    System.out.println("You decided to close the Database Connection and quit the application...");
+                    System.out.println("Closed the Database Connection and the Application...");
                 }
                 Platform.exit();
             } catch (SQLException e) {
